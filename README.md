@@ -52,3 +52,8 @@ When built with the limited palette, the artifacting then disappears:
 
 ![SSG flash with no artifacting](img/no-artifacting.png)
 
+There's only a very small amount of lost quality caused by using the modified
+palette (at least in this example):
+
+![Animation showing lost quality with limited palette](img/quality-difference.gif)
+
