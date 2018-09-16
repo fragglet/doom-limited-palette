@@ -20,6 +20,10 @@ this is easy to use. Simply copy `doom2.wad` from this repository and add
 deutex -doom2 doom2.wad -build wadinfo.txt my-wad.wad
 ```
 
+Feedback is requested on how to use this with other tools; I myself usually
+use deutex. If you have suggestions please get in contact or file a pull
+request.
+
 ## Explanation
 
 Back to Saturn X (along with other mods listed above) has a palette that is a
