@@ -38,13 +38,15 @@ Doom's weapons:
 
 Most of the weapon displays correctly but there are purple areas in the gun
 flash caused by the fact that the BTSX palette replaces part of the
-white/yellow color range with purple colors.
+white/yellow color range with purple colors. Mods which replace the palette
+avoid this problem by replacing every sprite and graphic.
 
 The limited palette here takes the Doom palette and "blocks out" entries in
-the palette which have been changed in popular PWADs. The changed color
-entries are replaced by cyan, which is usually used in Doom editing for
-transparency. When converting graphics to this palette, these palette entries
-will therefore be avoided:
+the palette which have been changed in popular PWADs (some color ranges, like
+the blue range, are kept because they are "compatible" even though they
+have been changed). The changed color entries are replaced by cyan, which is
+usually used in Doom editing for transparency. When converting graphics to
+this palette, these palette entries will therefore be avoided:
 
 ![Limited palette animation](img/limited-palette-anim.gif)
 
