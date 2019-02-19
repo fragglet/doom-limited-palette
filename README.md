@@ -6,9 +6,11 @@ this palette is compatible with the following:
 * [Doom 2 the Way id Did](https://doomwiki.org/wiki/Doom_2_the_Way_id_Did)
 * [Sunlust](https://doomwiki.org/wiki/Sunlust)
 
-Not supported is [Ancient Aliens](https://doomwiki.org/wiki/Ancient_Aliens);
-its palette is too different to Doom's original palette to make something
-compatible.
+Not supported because their custom palettes are too different to Doom's
+original palette to make something compatible:
+
+* [Ancient Aliens](https://doomwiki.org/wiki/Ancient_Aliens)
+* [Dimension of the Boomed](https://www.doomworld.com/forum/topic/92574-dimension-of-the-boomed/)
 
 ## How to use with deutex
 
